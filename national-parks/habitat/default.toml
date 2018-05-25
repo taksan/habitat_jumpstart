@@ -4,6 +4,6 @@
 #
 mongodb_database = "demo"
 [server]
-port = "8080"
-shutdown-port = "8005"
-redirect-port = "8443"
+port = "8088"
+shutdown-port = "8006"
+redirect-port = "8447"
